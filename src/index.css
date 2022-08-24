@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero{
+    height: 70vh;
+    background-image: url(./assets/hero.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+#cards{
+    height: 90vh;
+}
+
+#otherSection{
+    height: 70vh;
+}
+
+#liveSports{
+    height: 90vh;
+    background-image: url(./assets//livesports.jpg);
+    background-size: cover;
+}
